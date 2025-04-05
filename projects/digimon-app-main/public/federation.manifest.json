@@ -1,0 +1,5 @@
+{
+	"digimonAppUsers": "http://localhost:4200/remoteEntry.json",
+	"digimonAppListado": "http://localhost:4200/remoteEntry.json",
+	"digimonAppDetalle": "http://localhost:4200/remoteEntry.json"
+}
